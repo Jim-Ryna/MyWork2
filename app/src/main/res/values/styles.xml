@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:background">#FFC0CB</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="NoActionbarTheme" parent="Theme.AppCompat.Light.NoActionBar"></style>
+</resources>

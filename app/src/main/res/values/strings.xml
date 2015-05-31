@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">exam</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">APP更新</string>
+    <string name="title_activity_girl_activiy">GirlActiviy</string>
+    <string name="title_activity_duanzi">DuanziActivity</string>
+
+</resources>
